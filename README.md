@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Problem Solving
 ### Programming Hero - Complete Web Development with Jhankar Mahbub Batch 3
 
 ----
