@@ -1,16 +1,16 @@
-# Assignment 3 - Problem Solving
-### Programming Hero - Complete Web Development with Jhankar Mahbub Batch 3
+[Programming Hero](https://web.programming-hero.com/) - Complete Web Development with Jhankar Mahbub `Batch 3`
+# Assignment 3 : Problem Solving
 
-----
+There are 4 problems in this assignment. Problems statement are given below.
 
-#### 1. kilometerToMeter
+## Problems Statement
+
+### 1. `kilometerToMeter()`
 
 তোমাকে একটা ফাংশন লিখতে হবে, যেটার নাম হবে kilometerToMeter
 যে প্যারামিটার হিসেবে একটা দূরত্ব কে ইনপুট নিবে কিলোমিটার এককে আর এই কিলোমিটার কে মিটারে রূপান্তর করবে। এরপর ফাংশনটি সেই মিটার এককে দূরত্ব কে রিটার্ন করবে ফাংশন থেকে।
 
-
-
-#### 2. budgetCalculator
+### 2. `budgetCalculator()`
 
 ধরো, তুমি কয়েকটা ইলেক্ট্রনিক্স কেনার বাজেট হিসাব করতেছো। এই ফাংশনের নাম হবে budgetCalculator
 
@@ -22,9 +22,7 @@
 
 শুধু কি পরিমান লাগবে সেটার জন্য প্যারামিটার নিবে। দাম যেহেতু ফিক্সড তাই সেটা ফাংশনের ভিতরে যেভাবে ভালো হয় সেভাবে ব্যবহার করবে। অর্থাৎ তুমি ৩টা প্যারামিটার নিবে।
 
-
-
-#### 3. hotelCost
+### 3. `hotelCost()`
 
 তোমাকে একটা ফাংশন লিখতে হবে যেটার নাম হবে hotelCost
 যে হোটেলে গেছো সেখানে প্রতিরাত হিসেবে ভাড়া ঠিক করতে হয়। 
@@ -36,13 +34,17 @@
 
 সো, কেউ এসে ফাংশনকে কল করবে এবং সে কতদিন থাকবে সেটা ৬ দিন বা ১৩ দিন বা ৪৩ দিন বা যেকোন সংখ্যা হতে পারে । তখন তোমার এই ফাংশন সেই অনুসারে তার ভাড়া কত হবে সেটা হিসেব করে জানিয়ে দিবে। 
 
-
-
-#### 4. megaFriend
+### 4. `megaFriend()`
 
 এমন একটা ফাংশন বানাতে হবে, যেটার নাম হবে megaFriend 
 এই ফাংশনকে কল করার সময় সকল বন্ধুদের নামের একটা এরে আকারে বানিয়ে দেয়া হবে। 
 ফাংশন কে সেখান থেকে সবচেয়ে বড় নাম বের করে শুধু সেই নামটা স্ট্রিং আকারে রিটার্ন করতে হবে। ব্যস এইটুকুই কাজ।
 যদি একই সাইজের একাধিক নাম থাকে তাহলে প্রথম যে নামটা সবচেয়ে বড় সেটা রিটার্ন করতে হবে। 
 
-[Problems Link](https://www.facebook.com/notes/complete-web-development-batch-3/%E0%A6%8F%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A7%A9-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%AE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BE/2881288418769201/)
+## Technologies
+
+`JavaScript`
+
+## Available Links
+
+[Problems](https://www.facebook.com/notes/complete-web-development-batch-3/%E0%A6%8F%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A7%A9-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%AE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BE/2881288418769201/) | [Solutions](https://github.com/mustaquenadim/ph_assignment-3_problem-solving/blob/main/assignment.js)
